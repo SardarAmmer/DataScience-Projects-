@@ -37,6 +37,15 @@ A Natural Language Processing (NLP) project to classify emails as spam or not sp
 
 ---
 
+📊 **4. Profit/Loss Analysis & Business Insights**
+A data analysis project focused on evaluating product-wise profit and loss trends to recommend strategies for increasing profitability and reducing losses.
+✅ Technologies Used: Pandas, NumPy, Matplotlib, Seaborn
+✅ Highlights:
+Cleaned and standardized sales transaction data (date formatting, missing value handling, categorical corrections)
+Generated profit/loss summaries per product category
+Identified high-profit and loss-making items through visual analysis
+Delivered actionable business recommendations for revenue improvement
+
 ## 🚧 More Projects Coming Soon...  
 I continuously work on expanding my portfolio. Stay tuned for more exciting projects in:  
 - Time Series Forecasting  
@@ -46,14 +55,14 @@ I continuously work on expanding my portfolio. Stay tuned for more exciting proj
 
 ---
 
-## 📈 Skills Gained
-- Machine Learning (Supervised & Unsupervised)
-- Python for Data Analysis
-- Data Cleaning & Visualization
-- Feature Selection & Engineering
-- Model Evaluation & Tuning
-- NLP & Text Classification
-
+📈 Skills Gained
+Machine Learning (Supervised & Unsupervised)
+Python for Data Analysis
+Data Cleaning & Visualization
+Feature Selection & Engineering
+Model Evaluation & Tuning
+NLP & Text Classification
+Business Data Insights & Decision Support
 ---
 
 ## 💬 Let’s Connect!
