@@ -39,13 +39,15 @@ A Natural Language Processing (NLP) project to classify emails as spam or not sp
 
 📊 **4. Profit/Loss Analysis & Business Insights**
 A data analysis project focused on evaluating product-wise profit and loss trends to recommend strategies for increasing profitability and reducing losses.
-✅ Technologies Used: Pandas, NumPy, Matplotlib, Seaborn
-✅ Highlights:
+
+✅ **Technologies Used**: Pandas, NumPy, Matplotlib, Seaborn.
+
+✅ **Highlights**:
 
 - Cleaned and standardized sales transaction data (date formatting, missing value handling, categorical corrections)
--Generated profit/loss summaries per product category
--Identified high-profit and loss-making items through visual analysis
--Delivered actionable business recommendations for revenue improvement
+- Generated profit/loss summaries per product category
+- Identified high-profit and loss-making items through visual analysis
+- Delivered actionable business recommendations for revenue improvement
 
 ---
 
