@@ -46,6 +46,20 @@ Generated profit/loss summaries per product category
 Identified high-profit and loss-making items through visual analysis
 Delivered actionable business recommendations for revenue improvement
 
+---
+
+### 🎬 5. Sentiment Analysis of Movie Reviews  
+An NLP project that classifies movie reviews as **Positive** or **Negative** using machine learning.  
+✅ **Technologies Used**: Python, Pandas, NumPy, NLTK, Scikit-learn, TF-IDF, Multinomial Naive Bayes, Matplotlib, Seaborn, WordCloud, Pickle  
+✅ **Highlights**:  
+- Cleaned and preprocessed raw reviews (stopword removal, regex, tokenization)  
+- Converted text into numerical features with **TF-IDF Vectorizer (5000 features)**  
+- Trained a **Multinomial Naive Bayes** classifier for sentiment prediction  
+- Evaluated model with accuracy, precision, recall, F1-score, and ROC-AUC  
+- Visualized **top words** with Word Clouds ☁️  
+- Enabled **real-time user input testing** for sentiment prediction  
+- Saved model & vectorizer with Pickle for future use  
+
 ## 🚧 More Projects Coming Soon...  
 I continuously work on expanding my portfolio. Stay tuned for more exciting projects in:  
 - Time Series Forecasting  
@@ -56,13 +70,17 @@ I continuously work on expanding my portfolio. Stay tuned for more exciting proj
 ---
 
 📈 Skills Gained
-Machine Learning (Supervised & Unsupervised)
-Python for Data Analysis
-Data Cleaning & Visualization
-Feature Selection & Engineering
-Model Evaluation & Tuning
-NLP & Text Classification
-Business Data Insights & Decision Support
+- Machine Learning (Supervised & Unsupervised)
+- Python for Data Analysis
+- Data Cleaning & Visualization
+- Feature Selection & Engineering
+- Model Evaluation & Tuning
+- Natural Language Processing (NLP)
+- Text Preprocessing & Sentiment Analysis
+- TF-IDF & Feature Extraction from Text
+- WordCloud & Data Visualization
+- Model Deployment with Pickle
+- Business Data Insights & Decision Support
 ---
 
 ## 💬 Let’s Connect!
